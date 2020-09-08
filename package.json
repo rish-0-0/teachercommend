@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^3.2.0",
+    "mongodb": "^3.6.1",
     "next": "9.5.3",
+    "next-session": "^3.3.1",
+    "passport": "^0.4.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "swr": "^0.3.2",
+    "validator": "^13.1.1"
   }
 }
